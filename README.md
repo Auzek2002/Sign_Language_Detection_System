@@ -1,1 +1,1 @@
-# Sign_Language_Detection_System
+In this project, I developed a neural network designed to accurately detect sign language letters. The model was trained on a comprehensive dataset and achieved an impressive accuracy rate of 93%. This high level of accuracy was attained without the need for extensive hyperparameter tuning, showcasing the effectiveness of the initial network design and training process.
